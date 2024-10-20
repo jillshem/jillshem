@@ -21,7 +21,8 @@ I'm a passionate software developer with a love for crafts, books, learning, and
 - ⚡ **Fun Fact:** I once won a round of rock-paper-scissors against a Grammy Award-nominated singer/songwriter at a meet-and-greet in Vancouver... which isn't exactly related to coding or technology, but hey, a win is a win, and I have bragging rights! 🎉✌️🤷🏻‍♀️✌️
 
 ## Current Fascinations
-Right now, I'm diving into the world of cloud computing. ☁️👩🏼‍🚀
+- ☁️ Right now, I'm diving into the world of **cloud computing** 👩🏼‍🚀
+- 👩🏻‍💻 I’m also sharpening my **Node, React, and Next.js** skills, building them from the ground up with plenty of enthusiasm! 🤓
 
 <!-- TODO
 ## Latest Reads 📚
