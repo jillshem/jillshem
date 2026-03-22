@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## Current Fascinations
 - ☁️ Right now, I'm diving into the world of **artificial intelligence and cognitive science** 👩🏼‍🚀
-- 🍁 I’m passionate about [**Northsocial.ca**](https://northsocial.ca?utm_source=github_jillshem), a Canadian-owned social media platform!
-- 👩🏻‍💻 I’m also sharpening my [**Moxie.Build**](http://moxie.build?utm_source=github_jillshem) skills, with plenty of enthusiasm! 🤓
+- 🍁 I’m passionate about [**Northsocial.ca**](https://northsocial.ca?utm_source=github_jillshem), a Canadian-owned social media platform! 🍁
+- 👩🏻‍💻 I’m also sharpening my [**Moxie.Build**](http://moxie.build?utm_source=github_jillshem) skills, with plenty of enthusiasm 🤓
 
 
 ## About Me
