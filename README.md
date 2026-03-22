@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 
 ## Current Fascinations
-- ☁️ Right now, I'm diving into the world of **cloud computing** 👩🏼‍🚀
-- 👩🏻‍💻 I’m also sharpening my **Node, React, and Next.js** skills, building them from the ground up with plenty of enthusiasm! 🤓
+- ☁️ Right now, I'm diving into the world of **artificial intelligence and cognitive science** 👩🏼‍🚀
+- 🍁 I work in Community Engagement for [**Northsocial.ca**](https://northsocial.ca/), a Canadian-owned social media platform - Built for Community, Built for Canada
+- 👩🏻‍💻 I’m also sharpening my [**Moxie.Build**](http://moxie.build/) skills, with plenty of enthusiasm! 🤓
+
 
 ## About Me
 - 😄 **Pronouns:** she/her 💁🏻‍♀️
